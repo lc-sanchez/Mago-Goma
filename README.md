@@ -13,7 +13,7 @@ se realizaron investigaciones en las documentaciones de **Pygame** para implemen
 Para más información se tiene un breve informe [aquí](https://drive.google.com/file/d/1SXJnLGG1VlCPiv50mRaD9bdXnskToD8D/view?usp=sharing)
 
 Para poder correr el programa:}
-* Primero que todo, tenga instalado [python](https://www.python.org/downloads/). En nuestro caso, se tiene la versión 3.11.3.
+* Primero que todo, tenga instalado [python](https://www.python.org/downloads/). En nuestro caso, se tiene la versión [3.11.3. ](https://www.python.org/downloads/release/python-3113/)
 * Clonar el repositorio
 * Abrirlo en, por ejemplo, VSC.
 * En la terminal instale pygame mediante el comando **pip install pygame**. En nuestro caso se uso la versión 2.5.5.
